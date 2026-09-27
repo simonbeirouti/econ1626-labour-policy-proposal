@@ -1,6 +1,6 @@
 # AI and work in Australia: policy proposal scoping outline
 
-**Status:** research and option design for [`ass.md`](ass.md), not the 1,200-word submission. The assignment requires **one** named client and live policy process in the final brief. The five portfolios below are alternatives and potential partners, not five separate proposals.
+**Status:** research and option design for [Assessment 2](../assessment.md), not the 1,200-word submission. The assignment requires **one** named client and live policy process in the final brief. The five portfolios below are alternatives and potential partners, not five separate proposals.
 
 ## Common assessment framework
 
@@ -114,7 +114,7 @@ AI affects *tasks* before it affects whole occupations. For each example below, 
 
 ## Primary sources used for this scoping outline
 
-- [Assessment 2 instructions](ass.md) and the [nine lecture decks](../modules/)
+- [Assessment 2 instructions](../assessment.md)
 - [Jobs and Skills Australia, *Australia's AI Transition* (2025)](https://www.jobsandskills.gov.au/studies/generative-artificial-intelligence-capacity-study)
 - [DEWR, *AI and employment in Australia* (July 2026), full report](https://www.dewr.gov.au/download/17666/ai-and-employment-australia/43205/ai-and-employment-australia/pdf)
 - [DEWR, *Corporate Plan 2026–27*](https://www.dewr.gov.au/download/17793/department-employment-and-workplace-relations-corporate-plan-2026-2027/43700/department-employment-and-workplace-relations-corporate-plan-2026-2027/pdf)

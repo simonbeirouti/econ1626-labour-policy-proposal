@@ -6,6 +6,7 @@ The proposal recommends an 18-month pilot. Consultation and monitoring would sta
 
 ## Files
 
+- [assessment.md](assessment.md) — assignment instructions.
 - [proposal.md](proposal.md) — policy brief and references.
 - [reflection.md](reflection.md) — how I used AI during the assessment.
 - [research/policy-scoping.md](research/policy-scoping.md) — early comparison of five portfolios.
