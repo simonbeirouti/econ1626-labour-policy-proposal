@@ -1,7 +1,12 @@
-# ECON1626 Labour Policy Proposal
+# ECON1626 labour policy proposal
 
-This repository is for Assessment 2 in *The Economics of Artificial Intelligence* at RMIT. The assessment calls for a concise, evidence-based policy brief advising a government department or agency on AI's effects on the labour market.
+This repository holds my Assessment 2 policy brief for RMIT's *Economics of Artificial Intelligence*. It asks how the Department of Employment and Workplace Relations should respond to AI in contact-centre and records jobs.
 
-The report will examine how AI may change work, employment and wages, then compare practical policy options for their efficiency, equity, feasibility and cost. The policy client, specific problem and recommendation are still being developed.
+The proposal recommends an 18-month pilot. Consultation and monitoring would start first; paid training would follow only where changed tasks and suitable vacancies justify it. The A$17 million budget is an estimate, not an official costing.
 
-The final submission will include `proposal.md` (the policy brief) and `reflection.md` (a short reflection on AI use).
+## Files
+
+- [proposal.md](proposal.md) — policy brief and references.
+- [reflection.md](reflection.md) — how I used AI during the assessment.
+- [research/policy-scoping.md](research/policy-scoping.md) — early comparison of five portfolios.
+- [research/policy-potential-steps.md](research/policy-potential-steps.md) — options considered for each portfolio.
